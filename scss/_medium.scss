@@ -16,3 +16,9 @@ section {
   align-items: center;
   text-align: center;
 }
+#one {
+  @media (min-width: 35rem) {
+      height: auto; 
+      padding: 1rem; 
+  }
+}
