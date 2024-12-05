@@ -374,6 +374,7 @@ nav ul a span {
 }
 nav ul a:hover {
   background-color: #32c74a;
+  border-radius: 10px;
 }
 
 section {
@@ -527,9 +528,11 @@ footer a {
     height: 100vh;
     justify-content: center;
     position: fixed;
+    padding: 50px;
   }
   nav ul li {
     flex: none;
+    border-radius: 10px;
   }
   section {
     height: 106vh;

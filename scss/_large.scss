@@ -11,7 +11,9 @@ nav ul {
     height: 100vh;
     justify-content: center;
     position: fixed;
-    li {flex: none;}
+    li {flex: none;
+    border-radius: 10px;}
+    padding: 50px;
 }
 section {
     height: 106vh;
